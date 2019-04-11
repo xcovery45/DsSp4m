@@ -66,4 +66,6 @@ $execute = dsspam($nomor, $jumlah, $jeda);
 
 print $execute;
 
+print "Terkirim! Terima kasih telah menggunakam dsspam"
+
 ?>
