@@ -6,7 +6,7 @@ print "|     / /  / / _ \/ _  `/ __  /\__ \/ _ \/  __/   |\n";
 print "|    / /__/ /  __/ /_/ / /_/ /___/ /  __/  /      |\n";
 print "|   /______/\___/\____/\____//____/\___/\____/    |\n";
 print "|                                                 |\n";
-print "|   Author By: FirmansyahKen/XOX758               |\n";
+print "|   Author By: FirmansyahKen/XOX758.              |\n";
 print "|=================================================|\n";
 print "|                Telkomsel Spammer                |\n";
 print "+=================================================+\n";
