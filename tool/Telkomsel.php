@@ -12,7 +12,7 @@ print "|                Telkomsel Spammer                |\n";
 print "+=================================================+\n";
 
 
-function telkbomb($no, $jum, $wait){
+function dsspam($no, $jum, $wait){
 
 $x = 0; 
 
@@ -62,7 +62,7 @@ echo "Jeda? 0-999 (Contoh:1)\nInput : ";
 
 $jeda = trim(fgets(STDIN));
 
-$execute = telkbomb($nomor, $jumlah, $jeda);
+$execute = dsspam($nomor, $jumlah, $jeda);
 
 print $execute;
 
