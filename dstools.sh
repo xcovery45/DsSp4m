@@ -23,9 +23,6 @@ echo "\033[31;1mCreated By : DeadSec"
 echo "\033[31;1mAuthor By  : FirmansyahKen/XOX758"
 sleep 4
 clear
-cd
-cd /sdcard
-cd MyTools
 cd tool
 php Telkomsel.php
 fi
